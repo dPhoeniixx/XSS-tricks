@@ -18,7 +18,7 @@ URL?" -> URL?%22
 URL#" -> URL#"
 ```
 
-## Trust Me, You will use it
+## Miscellaneous
 ```
 /UNWANTED/-alert(1)
 /UNWANTED/g-alert(1)
